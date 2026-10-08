@@ -1,5 +1,5 @@
 cask "open-can-monitor" do
-  version "1.1.2"
+  version "2.0.0"
   sha256 :no_check
 
   url "https://github.com/ActuallyTaylor/OpenCANMonitor/releases/latest/download/OpenCANMonitor.dmg"
